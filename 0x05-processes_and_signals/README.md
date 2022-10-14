@@ -38,19 +38,33 @@ help: trap
 For those who want to know more and learn about all signals, check out this article.
 
 I.	What is a PID
+
 II.	What is a process
+
 III.	How to find a process PID
+
 IV.	How to kill a process
+
 V.	What is a signal
+
 VI.	What are the 2 signals that cannot be ignored
+
 VII.	Allowed editors: vi, vim, emacs
+
 VIII.	All your files will be interpreted on Ubuntu 14.04 LTS
+
 IX.	All your files should end with a new line
+
 X.	A README.md file, at the root of the folder of the project, is mandatory
+
 XI.	All your Bash script files must be executable
+
 XII.	Your Bash script must pass Shellcheck (version 0.3.3-1~ubuntu14.04.1 via apt-get) without any error
+
 XIII.	The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
+
 XIV.	The second line of all your Bash scripts should be a comment explaining what is the script doing
+
 XV.	Write a Bash script that displays its PID.
 
 GitHub repository: alx-system_engineering-devops
