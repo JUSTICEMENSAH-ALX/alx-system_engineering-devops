@@ -59,7 +59,7 @@ X.	A README.md file, at the root of the folder of the project, is mandatory
 
 XI.	All your Bash script files must be executable
 
-XII.	Your Bash script must pass Shellcheck (version 0.3.3-1~ubuntu14.04.1 via apt-get) without any error
+XII.	Your Bash script must pass Shellcheck (version 0.3.3-1~ubuntu 20.04.1 via apt-get) without any error
 
 XIII.	The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 
