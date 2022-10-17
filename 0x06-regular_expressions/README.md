@@ -12,13 +12,19 @@ ________________________________________
 •	
 4. Repetition Token #3
 •	
-5. Not quite HBTN yet
+5. Not quite ALX yet
 •	Requirements:
+
 6. Call me maybe
-•This task is brought to you by Justice Mensah Blay Mewube.
+
+ •This task is brought to you by Justice Mensah Blay Mewube.
+
 7. OMG WHY ARE YOU SHOUTING?
+
 •	
+
 8. Textme
+
 •	This exercise was prepared for you by JUSTICE MENSAH BLAY MEWUBE, VP of Infrastructure at TextMe. It is something I use daily. You can thank JUSTICE MENSAH for his project on Twitter.
 
 
