@@ -15,7 +15,7 @@ ________________________________________
 5. Not quite HBTN yet
 •	Requirements:
 6. Call me maybe
-•	This task is brought to you by Holberton mentor Neha Jain, Senior Software Engineer at LinkedIn.
+•This task is brought to you by Justice Mensah Blay Mewube.
 7. OMG WHY ARE YOU SHOUTING?
 •	
 8. Textme
