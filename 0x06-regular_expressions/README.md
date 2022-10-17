@@ -2,7 +2,7 @@
 Description
 What you should learn from this project:
 ________________________________________
-0. Simply matching Holberton
+0. Simply matching ALX
 •	
 1. Repetition Token #0
 •	
@@ -13,6 +13,7 @@ ________________________________________
 4. Repetition Token #3
 •	
 5. Not quite ALX yet
+
 •	Requirements:
 
 6. Call me maybe
