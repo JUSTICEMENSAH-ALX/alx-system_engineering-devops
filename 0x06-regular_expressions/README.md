@@ -26,7 +26,6 @@ ________________________________________
 
 8. Textme
 
-•	This exercise was prepared for you by JUSTICE MENSAH BLAY MEWUBE, VP of Infrastructure at TextMe. It is something I use daily. You can thank JUSTICE MENSAH for his project on Twitter.
 
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAALLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
